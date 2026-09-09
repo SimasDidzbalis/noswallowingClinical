@@ -53,6 +53,37 @@ Supporting evidence (cite by name, never as a Nutrioz claim):
   twice as much as capsules at 1,000 IU/day.
 - Systematic review of 71 studies — vitamin D deficiency in 78% of indoor
   workers vs 48% of outdoor workers.
+- **Cashman et al.**, *Am J Clin Nutr* 2016;103(4):1033–44 — standardised
+  25(OH)D across 14 European studies, n=55,844: **40.4%** below 50 nmol/L;
+  **17.7%** below 30 nmol/L in winter vs 8.3% in summer.
+  doi:10.3945/ajcn.115.120873
+- **Martineau et al.**, *BMJ* 2017;356:i6583 — the detail that matters
+  commercially: daily or weekly dosing OR 0.81, **bolus dosing OR 0.97 (no
+  effect)**, OR 0.30 where baseline 25(OH)D < 25 nmol/L. 25 RCTs, 10,933
+  participants aged 0–95. doi:10.1136/bmj.i6583
+- **Serrano Santos et al.**, *Int J Pharm* 2016;512(2):416–21 — UK care homes:
+  50% of residents have dysphagia; medication-administration error rate 57.3%
+  in them vs 30.8% in others. doi:10.1016/j.ijpharm.2016.02.036
+- **Buhmann et al.**, *Parkinsonism Relat Disord* 2019;62:51–56 — endoscopic
+  assessment: 28% of Parkinson's patients and **16% of healthy controls** had
+  substantially impaired pill swallowing. doi:10.1016/j.parkreldis.2019.02.002
+- **Jagani et al.**, *Pediatrics* 2016;138(6) — children on long-term therapy
+  carry an average burden of **3.5 tablets per day**. doi:10.1542/peds.2016-0680
+
+All six were retrieved from PubMed. Cite them by author, journal and year; never
+attribute any of these findings to Nutrioz.
+
+## Photography available (Google Drive, info@nutrioz.com)
+
+Real Nutrioz photography exists for: macro spray shots (*Nutrioz Molecular spray
+technology*), people holding tubes (*Julija Stoliarenko Nutrioz*, Nov 2025),
+D3+B12 in daily use (*Nutrioz US 2026*), elderly hands holding a tube (*Nutrioz
+Photos for Google*), and Dr. Elena Dudėnaitė (*Social media assets → Linkedin*).
+
+**There are no photographs of children with the product, and none of a doctor
+or pharmacist actually using it.** Do not imply otherwise in any asset. Much of
+the lifestyle material is HEIC, which the build container cannot decode —
+convert to JPEG in Drive before it can be used.
 
 ## Compliance guardrails
 

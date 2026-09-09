@@ -25,3 +25,17 @@ for src,name,mx in JOBS:
     dst="opt2/%s.jpg"%name
     pm.save(dst, jpg_quality=76)
     print(name, pm.width, pm.height, os.path.getsize(dst)//1024, "KB")
+
+JOBS2=[
+ ("drive/DR._Elena_Dudenaite_Nutrioz_Oral_Sray_Large.png.jpg","doctor",1100),
+ ("drive/The_Best__Vitamin_D3__Nutrioz_Oral_Spray_in_old_hands.jpg","senior_hands",1500),
+ ("drive/The_Best__Vitamin_D3__Nutrioz_Oral_Spray_in_old_hands_close.jpg","senior_close",1400),
+]
+for src,name,mx in JOBS2:
+    p,rot=imgutil.load(src)
+    w,h=(p.height,p.width) if rot in (90,270) else (p.width,p.height)
+    f=min(1.0,mx/max(w,h))
+    doc=pymupdf.open(); pg=doc.new_page(width=w*f,height=h*f)
+    pg.insert_image(pg.rect,pixmap=p,rotate=(360-rot)%360)
+    pm=pg.get_pixmap(dpi=72); dst="opt2/%s.jpg"%name; pm.save(dst, jpg_quality=78)
+    print(name, pm.width, pm.height, os.path.getsize(dst)//1024,"KB")
